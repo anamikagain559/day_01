@@ -1,0 +1,7 @@
+#example1 {
+  height: 1000px;
+  background-image: url(images.jpg), url(image.jpg);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat;
+  /* padding: 15px; */
+}
